@@ -76,8 +76,6 @@
   }
 </style> -->
 
-</br>
-
 <section align="center" class="presentation">
   <!-- <img width="250px" style="border-radius: 50%;" class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" /> -->
   <!-- </br> -->
