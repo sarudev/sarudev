@@ -1,3 +1,81 @@
+<style>
+  section {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
+
+  .presentation {
+    align-items: center;
+  }
+
+  .presentation .profPic {
+    border-radius: 50%;
+    width: 250px;
+    margin-bottom: 15px;
+  }
+
+  .presentation h3 {
+    margin-bottom: 15px;
+  }
+
+  .presentation .viewers-count {
+    height: 30px;
+  }
+
+  .title {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+  .ul-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .ul-container ul {
+    width: fit-content;
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 5px;
+  }
+
+  .about-me .ul-container ul {
+    flex-direction: column;
+  }
+  
+  .socials .ul-container ul {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .contact {
+    height: 25px;
+  }
+
+  .tech-stack .tech-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .chip {
+    height: 30px;
+  }
+
+  .stats .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+</style>
+
 <section class="presentation">
   <img class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" />
   <h2>Hi 👋, I'm Sarudev!</h2>
@@ -95,81 +173,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </div>
 </section>
-
-<style>
-  section {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 50px;
-  }
-
-  .presentation {
-    align-items: center;
-  }
-
-  .presentation .profPic {
-    border-radius: 50%;
-    width: 250px;
-    margin-bottom: 15px;
-  }
-
-  .presentation h3 {
-    margin-bottom: 15px;
-  }
-
-  .presentation .viewers-count {
-    height: 30px;
-  }
-
-  .title {
-    text-align: center;
-    font-size: 2em;
-    font-weight: bold;
-  }
-
-  .ul-container {
-    display: flex;
-    justify-content: center;
-  }
-
-  .ul-container ul {
-    width: fit-content;
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    gap: 5px;
-  }
-
-  .about-me .ul-container ul {
-    flex-direction: column;
-  }
-  
-  .socials .ul-container ul {
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
-  .contact {
-    height: 25px;
-  }
-
-  .tech-stack .tech-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .chip {
-    height: 30px;
-  }
-
-  .stats .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 15px;
-  }
-</style>
