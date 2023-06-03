@@ -76,11 +76,13 @@
   }
 </style> -->
 
+</br>
+
 <section align="center" class="presentation">
-  <img width="250px" style="border-radius: 50%;" class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" />
-  </br>
-  <h3>Hi 👋, I'm Sarudev!</h3>
-  <h4>Known in the internet as Saru</h4>
+  <!-- <img width="250px" style="border-radius: 50%;" class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" /> -->
+  <!-- </br> -->
+  <h1>Hi 👋, Sarudev here!</h1>
+  <h3>I'm known on the internet as Saru</h3>
   </br>
   <img class="viewers-count" alt="viewers-count" src="https://visitcount.itsvg.in/api?id=Sarudev&icon=2&color=0" />
 </section>
