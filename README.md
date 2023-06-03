@@ -1,18 +1,175 @@
-# 💫 About Me:
-🔭 I’m currently working on some special projects...<br>🌱 I’m currently learning Spring Boot and Rust<br>💬 Ask me about React, JavaScript or Typescript<br>⚡ Fun fact I like mushroom-like short haired girls.
+<section class="presentation">
+  <img class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" />
+  <h2>Hi 👋, I'm Sarudev!</h2>
+  <h3>Known in the internet as Saru</h2>
+  <img class="viewers-count" alt="viewers-count" src="https://visitcount.itsvg.in/api?id=Sarudev&icon=2&color=0" />
+</section>
 
+<section class="about-me">
+  <h1 class="title">💫 About me 💫</h1>
+  <div class="ul-container">
+    <ul> 
+      <li>🔭 I’m currently working on <b>some special projects...</b></li>
+      <li>🌱 I’m currently learning <b>Spring Boot and Rust</b></li>
+      <li>💬 Ask me about <b>React, JavaScript or Typescript</b></li>
+      <li>⚡ Fun fact <b>I like mushroom-like short haired girls</b></li>
+    </ul>
+  </div>
+</section>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sarudev#5673) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/topsaru.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-coria-a54948246) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sarudev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sarudev) 
+<section class="socials">
+  <h1 class="title">🌐 Socials 🌐</h1>
+  <div class="ul-container">
+    <ul>
+      <li>
+        <a href="https://discord.gg/3QZjuX9M">
+          <img alt="discord" class="contact" src="./assets/discord.svg" />
+        </a>
+      </li>
+      <li>
+        <a href="https://instagram.com/topsaru.dev">
+          <img alt="instagram" class="contact" src="./assets/instagram.svg" />
+        </a>
+      </li>
+      <li>
+        <a href="https://linkedin.com/in/josé-coria-a54948246">
+          <img alt="linkedin" class="contact" src="./assets/linkedin.svg" />
+        </a>
+      </li>
+      <li>
+        <a href="https://twitch.tv/sarudev">
+          <img alt="twitch" class="contact" src="./assets/twitch.svg" />
+        </a>
+      </li>
+      <li>
+        <a href="https://codepen.io/sarudev">
+          <img alt="codepen" class="contact" src="./assets/codepen.svg" />
+        </a>
+      </li>
+    </ul>
+  </div>
+</section>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarudev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<section class="tech-stack">
+  <h1 class="title">💻 Tech Stack 💻</h1>
+  <div class="tech-container">
+    <img alt="csharp" class="chip" src="./assets/csharp.svg" />
+    <img alt="css" class="chip" src="./assets/css.svg" />
+    <img alt="html" class="chip" src="./assets/html.svg" />
+    <img alt="java" class="chip" src="./assets/java.svg" />
+    <img alt="javascript" class="chip" src="./assets/javascript.svg" />
+    <img alt="markdown" class="chip" src="./assets/markdown.svg" />
+    <img alt="rust" class="chip" src="./assets/rust.svg" />
+    <img alt="typescript" class="chip" src="./assets/typescript.svg" />
+    <img alt="vercel" class="chip" src="./assets/vercel.svg" />
+    <img alt="electron" class="chip" src="./assets/electron.svg" />
+    <img alt="expressjs" class="chip" src="./assets/expressjs.svg" />
+    <img alt="jwt" class="chip" src="./assets/jwt.svg" />
+    <img alt="npm" class="chip" src="./assets/npm.svg" />
+    <img alt="next" class="chip" src="./assets/next.svg" />
+    <img alt="node" class="chip" src="./assets/node.svg" />
+    <img alt="unity" class="chip" src="./assets/unity.svg" />
+    <img alt="react" class="chip" src="./assets/react.svg" />
+    <img alt="react-native" class="chip" src="./assets/react-native.svg" />
+    <img alt="react-router" class="chip" src="./assets/react-router.svg" />
+    <img alt="redux" class="chip" src="./assets/redux.svg" />
+    <img alt="sass" class="chip" src="./assets/sass.svg" />
+    <img alt="socket.io" class="chip" src="./assets/socket.io.svg" />
+    <img alt="styled-components" class="chip" src="./assets/styled-components.svg" />
+    <img alt="tailwind" class="chip" src="./assets/tailwind.svg" />
+    <img alt="mongodb" class="chip" src="./assets/mongodb.svg" />
+    <img alt="mysql" class="chip" src="./assets/mysql.svg" />
+    <img alt="postgresql" class="chip" src="./assets/postgresql.svg" />
+    <img alt="sqlite" class="chip" src="./assets/sqlite.svg" />
+    <img alt="figma" class="chip" src="./assets/figma.svg" />
+    <img alt="eslint" class="chip" src="./assets/eslint.svg" />
+    <img alt="portfolio" class="chip" src="./assets/portfolio.svg" />
+  </div>
+</section>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sarudev&icon=2&color=0)](https://visitcount.itsvg.in)
+<section class="stats">
+  <h1 class="title">📊 GitHub Stats 📊</h1>
+  <div class="container">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarudev&theme=dark&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </div>
+</section>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<style>
+  section {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
+
+  .presentation {
+    align-items: center;
+  }
+
+  .presentation .profPic {
+    border-radius: 50%;
+    width: 250px;
+    margin-bottom: 15px;
+  }
+
+  .presentation h3 {
+    margin-bottom: 15px;
+  }
+
+  .presentation .viewers-count {
+    height: 30px;
+  }
+
+  .title {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+  .ul-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .ul-container ul {
+    width: fit-content;
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 5px;
+  }
+
+  .about-me .ul-container ul {
+    flex-direction: column;
+  }
+  
+  .socials .ul-container ul {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .contact {
+    height: 25px;
+  }
+
+  .tech-stack .tech-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .chip {
+    height: 30px;
+  }
+
+  .stats .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+</style>
