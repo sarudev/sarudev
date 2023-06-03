@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   section {
     display: flex;
     flex-direction: column;
@@ -74,61 +74,58 @@
     align-items: center;
     gap: 15px;
   }
-</style>
+</style> -->
 
-<section class="presentation">
-  <img class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" />
+<section align="center" class="presentation">
+  <img width="250px" style="border-radius: 50%;" class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" />
+  </br>
   <h2>Hi 👋, I'm Sarudev!</h2>
-  <h3>Known in the internet as Saru</h2>
+  <h3>Known in the internet as Saru</h3>
+  </br>
   <img class="viewers-count" alt="viewers-count" src="https://visitcount.itsvg.in/api?id=Sarudev&icon=2&color=0" />
 </section>
 
-<section class="about-me">
+</br>
+</br>
+
+<section align="center" class="about-me">
   <h1 class="title">💫 About me 💫</h1>
   <div class="ul-container">
-    <ul> 
-      <li>🔭 I’m currently working on <b>some special projects...</b></li>
-      <li>🌱 I’m currently learning <b>Spring Boot and Rust</b></li>
-      <li>💬 Ask me about <b>React, JavaScript or Typescript</b></li>
-      <li>⚡ Fun fact <b>I like mushroom-like short haired girls</b></li>
-    </ul>
+    🔭 I’m currently working on <b>some special projects...</b></br>
+    🌱 I’m currently learning <b>Spring Boot and Rust</b></br>
+    💬 Ask me about <b>React, JavaScript or Typescript</b></br>
+    ⚡ Fun fact <b>I like mushroom-like short haired girls</b></br>
   </div>
 </section>
 
-<section class="socials">
+</br>
+</br>
+
+<section align="center" class="socials">
   <h1 class="title">🌐 Socials 🌐</h1>
   <div class="ul-container">
-    <ul>
-      <li>
-        <a href="https://discord.gg/3QZjuX9M">
-          <img alt="discord" class="contact" src="./assets/discord.svg" />
-        </a>
-      </li>
-      <li>
-        <a href="https://instagram.com/topsaru.dev">
-          <img alt="instagram" class="contact" src="./assets/instagram.svg" />
-        </a>
-      </li>
-      <li>
-        <a href="https://linkedin.com/in/josé-coria-a54948246">
-          <img alt="linkedin" class="contact" src="./assets/linkedin.svg" />
-        </a>
-      </li>
-      <li>
-        <a href="https://twitch.tv/sarudev">
-          <img alt="twitch" class="contact" src="./assets/twitch.svg" />
-        </a>
-      </li>
-      <li>
-        <a href="https://codepen.io/sarudev">
-          <img alt="codepen" class="contact" src="./assets/codepen.svg" />
-        </a>
-      </li>
-    </ul>
+    <a href="https://discord.gg/3QZjuX9M">
+      <img alt="discord" class="contact" src="./assets/discord.svg" />
+    </a>
+    <a href="https://instagram.com/topsaru.dev">
+      <img alt="instagram" class="contact" src="./assets/instagram.svg" />
+    </a>
+    <a href="https://linkedin.com/in/josé-coria-a54948246">
+      <img alt="linkedin" class="contact" src="./assets/linkedin.svg" />
+    </a>
+    <a href="https://twitch.tv/sarudev">
+      <img alt="twitch" class="contact" src="./assets/twitch.svg" />
+    </a>
+    <a href="https://codepen.io/sarudev">
+      <img alt="codepen" class="contact" src="./assets/codepen.svg" />
+    </a>
   </div>
 </section>
 
-<section class="tech-stack">
+</br>
+</br>
+
+<section align="center" class="tech-stack">
   <h1 class="title">💻 Tech Stack 💻</h1>
   <div class="tech-container">
     <img alt="csharp" class="chip" src="./assets/csharp.svg" />
@@ -165,7 +162,10 @@
   </div>
 </section>
 
-<section class="stats">
+</br>
+</br>
+
+<section align="center" class="stats">
   <h1 class="title">📊 GitHub Stats 📊</h1>
   <div class="container">
     <img src="https://github-readme-stats.vercel.app/api?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
