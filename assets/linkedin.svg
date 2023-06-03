@@ -1,0 +1,28 @@
+<svg width="75" height="20" viewBox="0 0 75 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <mask id="mask0_215_106" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0"
+    width="75" height="20">
+    <path
+      d="M72 0H3C1.34315 0 0 1.34315 0 3V17C0 18.6569 1.34315 20 3 20H72C73.6569 20 75 18.6569 75 17V3C75 1.34315 73.6569 0 72 0Z"
+      fill="white" />
+  </mask>
+  <g mask="url(#mask0_215_106)">
+    <path d="M75 0H0V20H75V0Z" fill="#0077B5" />
+    <path d="M75 0H0V20H75V0Z" fill="url(#paint0_linear_215_106)" />
+  </g>
+  <g>
+    <text fill="#010101" fill-opacity="0.3" xml:space="preserve" style="white-space: pre"
+      font-family="Inter" font-size="11" letter-spacing="0em"><tspan font-family="Verdana,Geneva,DejaVu Sans,sans-serif" x="23.9258" y="14.5">LinkedIn</tspan></text>
+    <text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter"
+      font-size="11" letter-spacing="0em"><tspan font-family="Verdana,Geneva,DejaVu Sans,sans-serif" x="23.9258" y="13.5">LinkedIn</tspan></text>
+    <path
+      d="M16.9274 14.9303H14.8542V11.6817C14.8542 10.9071 14.8385 9.91017 13.7739 9.91017C12.693 9.91017 12.5279 10.7531 12.5279 11.6246V14.9303H10.4547V8.25H12.4462V9.16058H12.4731C12.7513 8.63558 13.428 8.08142 14.4389 8.08142C16.5395 8.08142 16.928 9.46392 16.928 11.2635L16.9274 14.9303ZM8.11325 7.33592C7.44592 7.33592 6.90983 6.79575 6.90983 6.13133C6.90983 5.4675 7.4465 4.92792 8.11325 4.92792C8.77825 4.92792 9.31725 5.4675 9.31725 6.13133C9.31725 6.79575 8.77767 7.33592 8.11325 7.33592ZM9.15275 14.9303H7.07375V8.25H9.15275V14.9303ZM17.9646 3H6.03308C5.462 3 5 3.4515 5 4.00858V15.9914C5 16.5491 5.462 17 6.03308 17H17.9628C18.5333 17 19 16.5491 19 15.9914V4.00858C19 3.4515 18.5333 3 17.9628 3H17.9646Z"
+      fill="white" />
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_215_106" x1="0" y1="0" x2="0" y2="400"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BBBBBB" stop-opacity="0.1" />
+      <stop offset="1" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+</svg>
