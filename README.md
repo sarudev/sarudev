@@ -79,13 +79,12 @@
 <section align="center" class="presentation">
   <img width="250px" style="border-radius: 50%;" class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" />
   </br>
-  <h2>Hi 👋, I'm Sarudev!</h2>
-  <h3>Known in the internet as Saru</h3>
+  <h3>Hi 👋, I'm Sarudev!</h3>
+  <h4>Known in the internet as Saru</h4>
   </br>
   <img class="viewers-count" alt="viewers-count" src="https://visitcount.itsvg.in/api?id=Sarudev&icon=2&color=0" />
 </section>
 
-</br>
 </br>
 
 <section align="center" class="about-me">
@@ -98,7 +97,6 @@
   </div>
 </section>
 
-</br>
 </br>
 
 <section align="center" class="socials">
@@ -122,7 +120,6 @@
   </div>
 </section>
 
-</br>
 </br>
 
 <section align="center" class="tech-stack">
@@ -162,7 +159,6 @@
   </div>
 </section>
 
-</br>
 </br>
 
 <section align="center" class="stats">
