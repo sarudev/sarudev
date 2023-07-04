@@ -111,7 +111,7 @@
     <a href="https://linkedin.com/in/josé-coria-a54948246">
       <img alt="linkedin" class="contact" src="./assets/linkedin.svg" />
     </a>
-    <a href="https://twitch.tv/sarudev">
+    <a href="https://twitch.tv/TopSaru">
       <img alt="twitch" class="contact" src="./assets/twitch.svg" />
     </a>
     <a href="https://codepen.io/sarudev">
