@@ -102,20 +102,8 @@
 <section align="center" class="socials">
   <h1 class="title">🌐 Socials 🌐</h1>
   <div class="ul-container">
-    <a href="https://discord.gg/3QZjuX9M">
-      <img alt="discord" class="contact" src="./assets/discord.svg" />
-    </a>
-    <a href="https://instagram.com/topsaru.dev">
-      <img alt="instagram" class="contact" src="./assets/instagram.svg" />
-    </a>
     <a href="https://linkedin.com/in/josé-coria-a54948246">
       <img alt="linkedin" class="contact" src="./assets/linkedin.svg" />
-    </a>
-    <a href="https://twitch.tv/TopSaru">
-      <img alt="twitch" class="contact" src="./assets/twitch.svg" />
-    </a>
-    <a href="https://codepen.io/sarudev">
-      <img alt="codepen" class="contact" src="./assets/codepen.svg" />
     </a>
   </div>
 </section>
