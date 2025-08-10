@@ -93,7 +93,7 @@
     🔭 I’m currently working on <b>some special projects...</b></br>
     🌱 I’m currently learning <b>Spring Boot and Rust</b></br>
     💬 Ask me about <b>React, JavaScript or Typescript</b></br>
-    ⚡ Fun fact <b>I like mushroom-like short haired girls</b></br>
+    ⚡ Fun fact <b>I love cats</b></br>
   </div>
 </section>
 
@@ -159,3 +159,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </div>
 </section>
+
