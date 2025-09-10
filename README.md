@@ -1,10 +1,10 @@
 <h2 align="center">👋 Hi there</h2>
 
-* 👂 `My name is`: **Saru**,
-* ⚡ `I'm`: **22 years old**,
-* 🌱 `I’m currently learning`: **Flutter**,
-* ❤️ `I love`: **Silksong**  ,
-* 💻 `Favorite lang`: **C# & Kotlin**  
+* 👂 `My name is`: **Saru**
+* ⚡ `I'm`: **22 years old**
+* 🌱 `I’m currently learning`: **Flutter**
+* ❤️ `I love`: **Silksong**
+* 💻 `Favorite lang`: **C# & Kotlin**
 
 <h2 align="center" style="display:flex;gap:1rem;width:100%;align-items:center;justify-content:center;">
   <span>☕ Statistics</span>
@@ -57,6 +57,7 @@
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
 
 
 
