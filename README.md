@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/sarudev/sarudev/4aeab8e62f4a11b92680f753e3dac4752ba71fe4/test.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
 <h2 align="center">👋 Hi there</h2>
 
 * 👂 `My name is`: **Saru**,
@@ -10,7 +6,7 @@
 * ❤️ `I love`: **Silksong**  ,
 * 💻 `Favorite lang`: **C# & Kotlin**  
 
-<h2 style="display:flex;gap:1rem;width:100%;align-items:center;justify-content:center;">
+<h2 align="center" style="display:flex;gap:1rem;width:100%;align-items:center;justify-content:center;">
   <span>☕ Statistics</span>
   <img src="https://komarev.com/ghpvc/?username=sarudev&color=blueviolet"/>
 </h2>
@@ -61,6 +57,7 @@
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
 
 
 
