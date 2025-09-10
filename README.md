@@ -1,3 +1,14 @@
+<!-- <style>
+  .statistics {
+    display:flex;
+    gap:1rem;
+    align-items:center;
+    justify-content:center;
+    flex-direction:row;
+    flex-wrap:wrap;
+  }
+</style> -->
+
 <h2 align="center">👋 Hi there</h2>
 
 * 👂 `My name is`: **Saru**,
@@ -11,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=sarudev&color=blueviolet"/>
 </h2>
 
-<div style="display:flex;gap:1rem;align-items:center;justify-content:center;flex-direction:row;flex-wrap:wrap;">
+<div class="statistics">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sarudev&layout=compact&theme=dracula&css,php,html&hide_border=true">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sarudev&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sarudev&theme=dracula&hide_border=true">
