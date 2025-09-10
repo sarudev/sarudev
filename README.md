@@ -1,13 +1,6 @@
-<!-- <style>
-  .statistics {
-    display:flex;
-    gap:1rem;
-    align-items:center;
-    justify-content:center;
-    flex-direction:row;
-    flex-wrap:wrap;
-  }
-</style> -->
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 <h2 align="center">👋 Hi there</h2>
 
