@@ -12,7 +12,7 @@
                     color: red;
                 }
                 to {
-                    color: yellow;
+                    color: green;
                 }
             }
             </style>
