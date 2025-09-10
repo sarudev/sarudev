@@ -6,15 +6,13 @@
 * ❤️ `I love`: **Silksong**  ,
 * 💻 `Favorite lang`: **C# & Kotlin**  
 
-<br/>
-
 <h2 style="display:flex;gap:1rem;width:100%;align-items:center;justify-content:center;">
   <span>☕ Statistics</span>
   <img src="https://komarev.com/ghpvc/?username=sarudev&color=blueviolet"/>
 </h2>
 
-<div style="display:flex;gap:1rem;width:100%;align-items:center;justify-content:center;flex-direction:row;flex-wrap:wrap;">
-  <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sarudev&layout=compact&theme=dracula&css,php,html&hide_border=true">
+<div style="display:flex;gap:1rem;align-items:center;justify-content:center;flex-direction:row;flex-wrap:wrap;">
+  <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sarudev&layout=compact&theme=dracula&css,php,html">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sarudev&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sarudev&theme=dracula&hide_border=true">
   <img src="https://github-profile-trophy.vercel.app/?username=sarudev&theme=tokyonight"/>
@@ -41,14 +39,14 @@
 <h4 align="center">📚 Frameworks and Libraries</h4>
 
 <p align="center">
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
-    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
-    <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-1572B6.svg?logo=cypress&logoColor=black"></a>
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
+  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
+  <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+  <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-1572B6.svg?logo=cypress&logoColor=black"></a>
+  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software</h4>
@@ -59,4 +57,3 @@
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
