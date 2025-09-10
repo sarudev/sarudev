@@ -1,162 +1,63 @@
-<!-- <style>
-  section {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 50px;
-  }
+<h2 align="center">👋 Hi there</h2>
 
-  .presentation {
-    align-items: center;
-  }
+<hr/>
 
-  .presentation .profPic {
-    border-radius: 50%;
-    width: 250px;
-    margin-bottom: 15px;
-  }
+* 👂 `My name is`: **Saru**,
+* ⚡ `I'm`: **22 years old**,
+* 🌱 `I’m currently learning`: **Flutter**,
+* ❤️ `I love`: **Silksong**  ,
+* 💻 `Favorite lang`: **C# & Kotlin**  
 
-  .presentation h3 {
-    margin-bottom: 15px;
-  }
+<br/>
 
-  .presentation .viewers-count {
-    height: 30px;
-  }
+<h2 style="display:flex;gap:1rem;width:100%;align-items:center;justify-content:center;">
+  <span>☕ Statistics</span>
+  <img src="https://komarev.com/ghpvc/?username=sarudev&color=blueviolet"/>
+</h2>
 
-  .title {
-    text-align: center;
-    font-size: 2em;
-    font-weight: bold;
-  }
+<div style="display:flex;gap:1rem;width:100%;align-items:center;justify-content:center;flex-direction:row;flex-wrap:wrap;">
+  <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sarudev&layout=compact&theme=dracula&css,php,html">
+  <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sarudev&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sarudev&theme=dracula&hide_border=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarudev&theme=tokyonight"/>
+</div>
 
-  .ul-container {
-    display: flex;
-    justify-content: center;
-  }
+<h2 align="center">🌱 My Skills</h2>
 
-  .ul-container ul {
-    width: fit-content;
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    gap: 5px;
-  }
+<h4 align="center">💻 Programming languages (and html)</h4>
 
-  .about-me .ul-container ul {
-    flex-direction: column;
-  }
-  
-  .socials .ul-container ul {
-    justify-content: center;
-    flex-wrap: wrap;
-  }
+<p align="center">
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Asass"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Asarudev1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+</p>
 
-  .contact {
-    height: 25px;
-  }
+<h4 align="center">📚 Frameworks and Libraries</h4>
 
-  .tech-stack .tech-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-    align-items: center;
-    justify-content: center;
-  }
+<p align="center">
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
+    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+    <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-1572B6.svg?logo=cypress&logoColor=black"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+</p>
 
-  .chip {
-    height: 30px;
-  }
+<h4 align="center">⚙ Software</h4>
 
-  .stats .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 15px;
-  }
-</style> -->
-
-<section align="center" class="presentation">
-  <!-- <img width="250px" style="border-radius: 50%;" class="profPic" alt="profPic" src="https://avatars.githubusercontent.com/u/85695563" /> -->
-  <!-- </br> -->
-  <h1>Hi 👋, Sarudev here!</h1>
-  <h3>I'm known on the internet as Saru</h3>
-  </br>
-  <img class="viewers-count" alt="viewers-count" src="https://visitcount.itsvg.in/api?id=Sarudev&icon=2&color=0" />
-</section>
-
-</br>
-
-<section align="center" class="about-me">
-  <h1 class="title">💫 About me 💫</h1>
-  <div class="ul-container">
-    🔭 I’m currently working on <b>some special projects...</b></br>
-    🌱 I’m currently learning <b>Spring Boot and Rust</b></br>
-    💬 Ask me about <b>React, JavaScript or Typescript</b></br>
-    ⚡ Fun fact <b>I love cats</b></br>
-  </div>
-</section>
-
-</br>
-
-<section align="center" class="socials">
-  <h1 class="title">🌐 Socials 🌐</h1>
-  <div class="ul-container">
-    <a href="https://linkedin.com/in/josé-coria-a54948246">
-      <img alt="linkedin" class="contact" src="./assets/linkedin.svg" />
-    </a>
-  </div>
-</section>
-
-</br>
-
-<section align="center" class="tech-stack">
-  <h1 class="title">💻 Tech Stack 💻</h1>
-  <div class="tech-container">
-    <img alt="csharp" class="chip" src="./assets/csharp.svg" />
-    <img alt="css" class="chip" src="./assets/css.svg" />
-    <img alt="html" class="chip" src="./assets/html.svg" />
-    <img alt="java" class="chip" src="./assets/java.svg" />
-    <img alt="javascript" class="chip" src="./assets/javascript.svg" />
-    <img alt="markdown" class="chip" src="./assets/markdown.svg" />
-    <img alt="rust" class="chip" src="./assets/rust.svg" />
-    <img alt="typescript" class="chip" src="./assets/typescript.svg" />
-    <img alt="vercel" class="chip" src="./assets/vercel.svg" />
-    <img alt="electron" class="chip" src="./assets/electron.svg" />
-    <img alt="expressjs" class="chip" src="./assets/expressjs.svg" />
-    <img alt="jwt" class="chip" src="./assets/jwt.svg" />
-    <img alt="npm" class="chip" src="./assets/npm.svg" />
-    <img alt="next" class="chip" src="./assets/next.svg" />
-    <img alt="node" class="chip" src="./assets/node.svg" />
-    <img alt="unity" class="chip" src="./assets/unity.svg" />
-    <img alt="react" class="chip" src="./assets/react.svg" />
-    <img alt="react-native" class="chip" src="./assets/react-native.svg" />
-    <img alt="react-router" class="chip" src="./assets/react-router.svg" />
-    <img alt="redux" class="chip" src="./assets/redux.svg" />
-    <img alt="sass" class="chip" src="./assets/sass.svg" />
-    <img alt="socket.io" class="chip" src="./assets/socket.io.svg" />
-    <img alt="styled-components" class="chip" src="./assets/styled-components.svg" />
-    <img alt="tailwind" class="chip" src="./assets/tailwind.svg" />
-    <img alt="mongodb" class="chip" src="./assets/mongodb.svg" />
-    <img alt="mysql" class="chip" src="./assets/mysql.svg" />
-    <img alt="postgresql" class="chip" src="./assets/postgresql.svg" />
-    <img alt="sqlite" class="chip" src="./assets/sqlite.svg" />
-    <img alt="figma" class="chip" src="./assets/figma.svg" />
-    <img alt="eslint" class="chip" src="./assets/eslint.svg" />
-    <img alt="portfolio" class="chip" src="./assets/portfolio.svg" />
-  </div>
-</section>
-
-</br>
-
-<section align="center" class="stats">
-  <h1 class="title">📊 GitHub Stats 📊</h1>
-  <div class="container">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  </br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarudev&theme=dark&hide_border=false" />
-  </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </div>
-</section>
-
+<p align="center">
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-4000BF.svg?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
