@@ -1,7 +1,5 @@
 <h2 align="center">👋 Hi there</h2>
 
-<hr/>
-
 * 👂 `My name is`: **Saru**,
 * ⚡ `I'm`: **22 years old**,
 * 🌱 `I’m currently learning`: **Flutter**,
@@ -16,7 +14,7 @@
 </h2>
 
 <div style="display:flex;gap:1rem;width:100%;align-items:center;justify-content:center;flex-direction:row;flex-wrap:wrap;">
-  <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sarudev&layout=compact&theme=dracula&css,php,html">
+  <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sarudev&layout=compact&theme=dracula&css,php,html&hide_border=true">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sarudev&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sarudev&theme=dracula&hide_border=true">
   <img src="https://github-profile-trophy.vercel.app/?username=sarudev&theme=tokyonight"/>
@@ -61,3 +59,4 @@
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
